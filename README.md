@@ -8,8 +8,7 @@ This challenge involved refactoring the HTML to contain semantic elements. Addit
 I was able to reduce the CSS file by about 30% by making the code more effecient. 
 
 ## Screenshot
-!(assets\images\Screenshot.png)
-
+!(https://github.com/kferguson52/weeklychallange1/blob/main/assets/images/Screenshot.png)
 ## Live Link
 
 https://kferguson52.github.io/weeklychallange1/
